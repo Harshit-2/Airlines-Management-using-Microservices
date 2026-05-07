@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="AirlinesAPIGateway/AirlinesAPIGateway.csproj" Id="d1b0d6c9-b493-4aad-9fac-386036868f70" />
+  <Project Path="AirlinesMVC/AirlinesMVC.csproj" Id="d70a3748-62ad-4df6-b3c4-c83b8c300813" />
+  <Project Path="AuthenticationWebApi/AuthenticationWebApi.csproj" Id="1a4e8714-57b2-4ec0-a682-7bb503530702" />
+  <Project Path="FlightLibrary/FlightLibrary.csproj" />
+  <Project Path="FlightScheduleWebApi/FlightScheduleWebApi.csproj" Id="f0727dda-7969-4e7a-b6a0-7252eb823a54" />
+  <Project Path="FlightWebApi/FlightWebApi.csproj" Id="9150fef3-3379-49fc-becd-b3a3e2ba8ded" />
+  <Project Path="FllightScheduleLibrary/FlightScheduleLibrary.csproj" Id="330a63be-17b5-4867-959a-dc6f2a794a6c" />
+  <Project Path="ReservationLibrary/ReservationLibrary.csproj" Id="2754ac10-416b-4282-8540-154d8f4817ad" />
+  <Project Path="ReservationWebApi/ReservationWebApi.csproj" Id="2cf1a36d-82b4-4b9a-b6da-b531b5ac8389" />
+</Solution>
